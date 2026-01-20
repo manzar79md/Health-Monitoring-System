@@ -174,5 +174,6 @@ Free to use for educational and personal purposes.
 ## 👨‍💻 Author
 
 **Md Manzar Nizam**  
-📧 Email: manzarnizammd@gmail.com  
-🔗 [LinkedIn: https://linkedin.com/in/md-manzar-nizam](#) | [Github: https://github.com/manzar79md](#)
+🔗 LinkedIn: https://www.linkedin.com/in/md-manzar-nizam
+💻 GitHub: https://github.com/manzar79md
+📧 Email: manzarnizammd@gmail.com
