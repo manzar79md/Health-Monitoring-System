@@ -175,4 +175,4 @@ Free to use for educational and personal purposes.
 
 **Md Manzar Nizam**  
 📧 Email: manzarnizammd@gmail.com  
-🔗 [LinkedIn:https://linkedin.com/in/md-manzar-nizam](#) | [Github:https://github.com/manzar79md](#)
+🔗 [LinkedIn: https://linkedin.com/in/md-manzar-nizam](#) | [Github: https://github.com/manzar79md](#)
